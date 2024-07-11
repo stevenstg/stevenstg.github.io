@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2199-01-01-future-post.md",
+                "file": "_research/Zotero文献标注.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2199-01-01-future-post.md",
+                "file": "_research/Zotero文献标注.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2199-01-01-future-post.md",
+                "file": "_research/Zotero文献标注.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2199-01-01-future-post.md"
+                "file": "_research/Zotero文献标注.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "cea2104b2897e32b",
   "lastOpenFiles": [
-    "_publications/2024-02-17-paper-title-number-4.md",
+    "_reading/2199-01-01-future-post.md",
+    "_research/Zotero文献标注.md",
+    "_reading/自控力.md",
     "_posts/2199-01-01-future-post.md",
+    "_publications/2024-02-17-paper-title-number-4.md",
     "CONTRIBUTING.md"
   ]
 }
